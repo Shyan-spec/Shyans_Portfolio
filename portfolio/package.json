@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://Shyan-spec.github.io/portfolio",
+  "homepage": "https://Shyan-spec.github.io/Shyan-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,7 +25,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-   "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
