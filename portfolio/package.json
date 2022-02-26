@@ -1,6 +1,6 @@
 {
+  "homepage" : "https://Shyan-spec.github.io/",
   "name": "portfolio",
-  "homepage": "https://Shyan-spec.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
