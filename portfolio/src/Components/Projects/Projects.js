@@ -25,8 +25,8 @@ class Projects extends Component {
                             <div className="desAndbuttonWrap">
                             <span className="description">A basic online calculator made from scratch! Here to handle all of your mathematic problems.</span>
 
-                            <a href="https://shyan-spec.github.io/Calculator/" target="_blank">
-                            <button className="live">See Live!</button>
+                            <a className="live" href="https://shyan-spec.github.io/Calculator/" target="_blank">
+                            See Live!
                             </a>
                             </div>
 
