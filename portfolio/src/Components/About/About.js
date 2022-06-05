@@ -1,7 +1,7 @@
 import React ,{Component} from 'react';
 import ShyanPhoto from './ShyanWalker.jpeg'
 import './About.scss';
-import Resume from './SW Resume 2022.pdf';
+import Resume from '/Users/shyanw/Documents/Shyan-Portfolio/portfolio/src/Components/About/OR SWalker 2022.pdf';
 
 class About extends Component {
     render() {
