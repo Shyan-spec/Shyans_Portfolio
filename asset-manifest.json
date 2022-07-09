@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Shyans_Portfolio/static/css/main.c928afe2.css",
+    "main.js": "/Shyans_Portfolio/static/js/main.3f15767c.js",
+    "static/js/787.86e70ff7.chunk.js": "/Shyans_Portfolio/static/js/787.86e70ff7.chunk.js",
+    "static/media/DailyVoice.png": "/Shyans_Portfolio/static/media/DailyVoice.e5bb9c5891c17d5df8e8.png",
+    "static/media/CalcPic.png": "/Shyans_Portfolio/static/media/CalcPic.14795a8286ddb4b90d19.png",
+    "static/media/OR SWalker 2022.pdf": "/Shyans_Portfolio/static/media/OR SWalker 2022.37b00f7258e168e6c86c.pdf",
+    "static/media/ShyanWalker.jpeg": "/Shyans_Portfolio/static/media/ShyanWalker.c8b5a1d4c139c492b2a7.jpeg",
+    "static/media/Github.svg": "/Shyans_Portfolio/static/media/Github.4965b2f04e043324c76f404adc8244f5.svg",
+    "static/media/Twitter.svg": "/Shyans_Portfolio/static/media/Twitter.160dac1b2777cdffdecd3c754dd058e2.svg",
+    "static/media/link.svg": "/Shyans_Portfolio/static/media/link.71bfc144924d7750cc6dd2f7aa323747.svg",
+    "index.html": "/Shyans_Portfolio/index.html",
+    "main.c928afe2.css.map": "/Shyans_Portfolio/static/css/main.c928afe2.css.map",
+    "main.3f15767c.js.map": "/Shyans_Portfolio/static/js/main.3f15767c.js.map",
+    "787.86e70ff7.chunk.js.map": "/Shyans_Portfolio/static/js/787.86e70ff7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c928afe2.css",
+    "static/js/main.3f15767c.js"
+  ]
+}
